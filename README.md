@@ -1,0 +1,1 @@
+Technosport Internal Suite - Streamlit App\n\nDeploy on Streamlit Cloud:\n1. Upload this repo to GitHub (branch 'main')\n2. Create new app in Streamlit Cloud -> point to repo and app.py\n
